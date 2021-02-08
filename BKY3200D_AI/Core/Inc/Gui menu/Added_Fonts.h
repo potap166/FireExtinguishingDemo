@@ -1,0 +1,22 @@
+ 
+#ifndef  __ADDED_FONTS_H
+#define  __ADDED_FONTS_H
+
+#include "GUI.h"
+
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontVerdana42_1;
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontArial16;
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontArial14 ;
+
+
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontVerdana35;
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontVerdana25;
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontVerdana23;
+extern GUI_CONST_STORAGE GUI_FONT GUI_FontVerdana18;
+
+
+
+
+
+
+#endif
